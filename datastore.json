@@ -1,7 +1,4 @@
-[{
-	"id": "pdfapp",
-	"internal": 5000
-}, {
-	"id": "sql-injection",
-	"internal": 5000
-}]
+{
+	"pdfapp": 5000,
+	"sqlinjection": 5000
+}
